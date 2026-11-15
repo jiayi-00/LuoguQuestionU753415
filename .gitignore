@@ -1,0 +1,21 @@
+# Build output
+build/
+*.exe
+*.o
+*.obj
+
+# Archives
+*.zip
+
+# Python
+__pycache__/
+*.pyc
+
+# Local temp
+.tmp/
+tmp/
+*.tmp
+
+# Editor
+.vscode/
+.idea/
